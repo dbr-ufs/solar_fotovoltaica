@@ -1,8 +1,0 @@
-#!/bin/bash
-set -euo pipefail
-
-pip install -e .
-
-jlpm
-
-jlpm build
