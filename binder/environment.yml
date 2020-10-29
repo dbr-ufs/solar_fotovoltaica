@@ -3,7 +3,6 @@ channels:
 - conda-forge
 dependencies:
 - gnuplot
-- jupyterlab=2
 - nodejs
 - octave
 - octave_kernel
